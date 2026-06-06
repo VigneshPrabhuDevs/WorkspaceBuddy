@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppFunctionAppMetadata
+    xmlns:appfn="http://schemas.android.com/apk/androidx.appfunctions"
+    appfn:description="Workspace Buddy is a local productivity app. It allows users and agents to create tasks with custom priorities, view pending workloads, and update availability states."
+    appfn:displayDescription="Exposes task management and profile functions to system assistants." />
